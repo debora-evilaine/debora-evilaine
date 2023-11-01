@@ -1,5 +1,5 @@
 ### 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s3NThkODdkeXF5dDRxYnl2cXBjOTIxaGJ5enQzY2o1aDV2bmp1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s3NThkODdkeXF5dDRxYnl2cXBjOTIxaGJ5enQzY2o1aDV2bmp1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 <!--
 **debora-evilaine/debora-evilaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
