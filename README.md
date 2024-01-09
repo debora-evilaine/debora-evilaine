@@ -1,5 +1,5 @@
 # <sub>Hi, Débora speaking!
-###### I'm a beginner programmer currently in my first year at the Federal Institute of Education, Science and Technology in São Paulo, Brazil, studying Information Systems. 
+###### I'm a beginner programmer currently in my second year at the Federal Institute of Education, Science and Technology in São Paulo, Brazil, studying Information Systems. 
 ###### In the first half of 2023 I built, alongside a few of my classmates, a Discord Bot that generates monthly and semestral reports for projects the Institute's students might be enroled in. [You should check it out!](https://github.com/ifspvislab/ifsp-report-bot) 
 ###### Currently, I'm looking into improving my programming logic and my abilities to solve problems so that I can participate of a programming competition in the future!
 ###### And lastly, if you'd like to connect, you can always find me on my [Linkedin](https://www.linkedin.com/in/debora-evilaine-dev/)</sub>
