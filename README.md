@@ -4,7 +4,7 @@
 ###### Currently, I'm looking into exploring the world of Java to build solutions to real world problems!
 ###### Lastly, if you'd like to connect, you can always find me on my [Linkedin!](https://www.linkedin.com/in/debora-evilaine-dev/)</sub>
 
-<iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/leroypatterson-cat-glasses-CjmvTCZf2U3p09Cn0h"></a></p>
+<div style="width:100%;height:0;padding-bottom:94%;position:relative;"><iframe src="https://giphy.com/embed/CjmvTCZf2U3p09Cn0h" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/leroypatterson-cat-glasses-CjmvTCZf2U3p09Cn0h">via GIPHY</a></p>
 <!--
 **debora-evilaine/debora-evilaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
