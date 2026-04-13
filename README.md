@@ -1,5 +1,5 @@
 # <sub>Hi, Débora speaking!
-###### I'm a full stack developer currently in my second year at the Federal Institute of Education, Science and Technology in São Paulo, Brazil, studying Information Systems. 
+###### I'm a full stack developer currently in my fourth and final year at the Federal Institute of Education, Science and Technology in São Paulo, Brazil, studying Information Systems. 
 ###### In the first half of 2023 I built, alongside a few of my classmates, a Discord Bot that generates monthly and semestral reports for projects the Institute's students might be enroled in. [You should check it out!](https://github.com/ifspvislab/ifsp-report-bot) 
 ###### Currently, I'm looking into exploring the world of Java to build solutions to real world problems!
 ###### Lastly, connect with me through [Linkedin!](https://www.linkedin.com/in/debora-evilaine-dev/)</sub>
